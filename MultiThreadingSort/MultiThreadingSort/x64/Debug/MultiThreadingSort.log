@@ -1,0 +1,4 @@
+﻿  MultiThreadingSort.cpp
+D:\unwanted\5 sem\osisp\WinApi-master\MultiThreadingSort\MultiThreadingSort\MultiThreadingSort.cpp(39,15): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+D:\unwanted\5 sem\osisp\WinApi-master\MultiThreadingSort\MultiThreadingSort\MultiThreadingSort.cpp(117,17): warning C4312: приведение типов: преобразование из "int" в "LPVOID" большего размера
+  MultiThreadingSort.vcxproj -> D:\unwanted\5 sem\osisp\WinApi-master\MultiThreadingSort\x64\Debug\MultiThreadingSort.exe
